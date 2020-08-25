@@ -1,0 +1,41 @@
+Wichtige Notes:
+_________________________________________________
+Tags:
+<a href=""></a>
+  Stellt einen Link dar, zwischen "" kommt der Link, zwischen dem Tag a die Beschriftung
+<b></b>
+  Stellt den Text fett dar.
+<em></em>
+  Stellt den Text kursiv dar, dabei wird es beim "Vorlesen" betont
+<i></i>
+  Stellt den Text kursiv dar, dabei wird es beim "Vorlesen" gar nicht beachtet
+<ol></ul>
+  Stellt eine Liste mit Aufzählungen dar. Es bedarf innerhalb den Tag <li>1. X 2. Y</li>
+<ul></ul>
+  Stellt eine Liste mit Bulletpoints dar. Es bedarf innerhalb den Tag <li>Aufzählung</li>
+<table>
+    <thead>
+      <tr>
+        <th></th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td></td>
+        <td></td>
+      </tr>
+    </tbody>
+    <tfoot>
+      <tr>
+
+      </tr>
+    </tfoot>
+</table>
+  Stellt eine Tabelle dar.
+<strong></strong>
+  Stellt den Text fett dar
+_________________________________________________
+Gut zu wissen:
+
+Rechtsklick auf eine Stelle einer Internetseite und klicken auf "Seitenquelltext anzeigen" zeigt die HTML Verison an
